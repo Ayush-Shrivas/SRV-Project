@@ -119,6 +119,7 @@ Project
   }
 }
 ```
+---
 ## ⚡ Performance Philosophy
 
 * No heavy libraries or frameworks
