@@ -78,8 +78,8 @@ The interface is designed to feel **premium, trustworthy, and enterprise-ready**
 ## 📂 Project Structure
 ```bash
 Project
-    │   index.html
-    │   README.md
+    ├───index.html
+    ├───README.md
     │
     └───assets
         ├───css
