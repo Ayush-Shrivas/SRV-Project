@@ -5,6 +5,7 @@ This project emphasizes **clean UI, accessibility, scalability, and professional
 
 ---
  Assignment Walkthrough Video - https://youtu.be/1DMR7XURv7s
+
 ---
 
 ## 🚀 Project Overview
