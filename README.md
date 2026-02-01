@@ -4,7 +4,7 @@ A modern, responsive, and performance-focused web platform designed for **educat
 This project emphasizes **clean UI, accessibility, scalability, and professional branding**, making it suitable for ed-tech companies, schools, and academic organizations.
 
 ---
-** Assignment Walkthrough Video - https://youtu.be/1DMR7XURv7s
+## Assignment Walkthrough Video - https://youtu.be/1DMR7XURv7s
 
 ---
 
